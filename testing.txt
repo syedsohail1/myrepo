@@ -1,0 +1,12 @@
+Test File for Git Integration
+Introducing a new feature
+this is just to practice the git command
+
+Edited by Rachana.
+Second edit.
+Editing by sohail 
+this is my first github repository
+
+Edited by Rachana.
+:
+Hello myself sohail
